@@ -1,0 +1,8 @@
+media/*
+static/*
+
+*.pyc
+.idea
+.env
+*.e4p
+*.sqlite3
